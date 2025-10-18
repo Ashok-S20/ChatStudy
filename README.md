@@ -1,5 +1,5 @@
-# NAME:LOKESH M
-# REG NO:212224040173
+# NAME: ASHOK S
+# REG NO:212224040031
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
